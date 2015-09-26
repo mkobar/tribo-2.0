@@ -1,0 +1,2203 @@
+["Arcade Fire","The Strokes","Beirut","O Planeta Limpo do Filipe Pinto","Rodrigo Leão","Maria Mendes","Linda Martini","Stereoboy","Carlos Guedes","Galandum Galundaina","Evols","Neon Indian","The Whitest Boy Alive","Kings of Convenience- KOC","Thievery Corporation","Banana Royale","HOMENS DA LUTA","Zero 7","Massive Attack","Blur","Ornatos Violeta","Os Andantes","Yann Tiersen (official)"]
+[{"id":"5617ac40-02b1-4436-9ed6-5d574fbaae20","name":"The Roadrunners","type":"T"},{"id":"baaf92f5-f2b2-4f51-9723-abed41a257f8","name":"Local H","type":"T"},{"id":"581d70f7-19ae-4f62-b9f6-6d9f1cc1d6aa","name":"2nd District","type":"T"},{"id":"81d49a3a-0d71-4c22-b5e2-fbe6da82df57","name":"Hannah Epperson","type":"T"},{"id":"668fd73c-bf54-4310-a139-305517f05311","name":"Willie Nelson","type":"T"},{"id":"1d67b0cc-0a8b-44d3-8105-a8853af03f76","name":"Djs From Mars","type":"T"},{"id":"6c8db3a0-f9b9-4e03-9b04-c9c3a03006de","name":"The Zombie Kids","type":"T"},{"id":"3cc4e426-49e2-41ec-8679-93574949f10c","name":"BAUCHKLANG vocal groove project","type":"T"},{"id":"5cdf9d0e-73b5-4159-a6cb-7a1861b65699","name":"Lucia","type":"T"},{"id":"262ae7fc-f3ef-437e-995a-6898a514929d","name":"HornDogz","type":"T"},{"id":"","name":"Moiez","type":"T"},{"id":"31ab8f5f-b5d7-41a2-80ef-13084aaf0eab","name":"Love of Lesbian","type":"T"},{"id":"fbb375f9-48bb-4635-824e-4120273b3ba7","name":"Regina Spektor","type":"T"},{"id":"c842d29f-a297-48cd-bb71-4f77fd672b16","name":"T. Rex ","type":"T"},{"id":"f181961b-20f7-459e-89de-920ef03c7ed0","name":"The Strokes","type":"T"},{"id":"f912812d-13d7-497c-bcfe-084ca1fb98e4","name":"Turf","type":"T"},{"id":"2d1d8985-47bc-4244-8cc3-577584e411f6","name":"Richard Ashcroft","type":"T"},{"id":"42a8f507-8412-4611-854f-926571049fa0","name":"George Harrison","type":"T"},{"id":"75a0db19-d163-4981-83a9-cfb147619235","name":"Jimi Goodwin","type":"T"}]
+USER ARTISTArcade Fire
+52074ba6-e495-4ef3-9bb4-0703888a9f68
+Arcade Fire
+----similars----
+Vampire Weekend
+af37c51c-0790-4a29-b995-456f98a6b8c9
+----similars----
+Metronomy
+93eb7110-0bc9-4d3f-816b-4b52ef982ec8
+----similars----
+The National
+664c3e0e-42d8-48c1-b209-1efca19c0325
+----similars----
+Arcade Fire & David Bowie
+
+----similars----
+Interpol
+b23e8a63-8f47-4882-b55b-df2c92ef400e
+----similars----
+LCD Soundsystem
+2aaf7396-6ab8-40f3-9776-a41c42c8e26b
+----similars----
+Bombay Bicycle Club
+0ae49abe-d6af-44fa-8ab0-b9ace5690e6f
+----similars----
+Radiohead
+a74b1b7f-71a5-4011-9441-d0b5e4122711
+----similars----
+The Strokes
+f181961b-20f7-459e-89de-920ef03c7ed0
+similarity0.578849
+23
+0.02013387826087
+USER ARTISTThe Strokes
+f181961b-20f7-459e-89de-920ef03c7ed0
+The Strokes
+23
+Tsimilarity=0.054916486956522
+USER ARTISTBeirut
+
+
+USER ARTISTO Planeta Limpo do Filipe Pinto
+
+
+USER ARTISTRodrigo Leão
+
+
+USER ARTISTMaria Mendes
+7b18c49e-f519-4881-92c6-4c4efb41370c
+Maria Antónia Mendes
+USER ARTISTLinda Martini
+569e075d-87fb-4ca9-9b4f-4091334c2bbf
+Linda Martini
+----similars----
+Paus
+640740af-3af2-450f-a17d-c45268859412
+----similars----
+Ornatos Violeta
+7a749f7d-2c67-4900-b4ba-1454c609ee79
+----similars----
+Capitão Fausto
+23b2da42-f7d4-41af-bd51-c6f9bebcc2d2
+----similars----
+Filho da Mãe
+eeb64a53-7395-4677-baeb-56c200d4f1f3
+----similars----
+Dead Combo
+092ae9e2-60bf-4b66-aa33-9e31754d1924
+----similars----
+Noiserv
+79705997-4d5b-49e5-81ec-0b31679bacb4
+----similars----
+B Fachada
+fcfaeca9-4ebe-41d8-9381-473d3d7980b7
+----similars----
+Memória de Peixe
+
+----similars----
+Riding Pânico
+f44b00f3-3356-4b8d-a320-06ced07f3036
+----similars----
+Foge Foge Bandido
+4f128265-a7f7-48cf-9aef-8f74f0854b1b
+----similars----
+SuperNada
+9b9eb423-a029-44bd-970b-d531f7658525
+----similars----
+Peixe : Avião
+0d2c3b0c-579c-4010-8e00-b6b6a92ade21
+----similars----
+Diabo Na Cruz
+545243a3-1b6c-4d73-8344-76498b7997b6
+----similars----
+Mão Morta
+30516a17-e753-4f4f-986d-d775090d437e
+----similars----
+Doismileoito
+01d3159c-c221-4442-a381-10aa91a79e9d
+----similars----
+Da Weasel
+d340a71c-4c25-4c1a-b03a-610b063b7ee3
+----similars----
+Men Eater
+fbb62880-5fb7-4a0d-bb02-a45b8349993d
+----similars----
+You Can't Win, Charlie Brown
+64ee921f-32a0-465a-b34d-4ab6bc9cbb2c
+----similars----
+Samuel Úria
+
+----similars----
+Orelha Negra
+4f305d57-ed93-4e22-99a6-871725da5066
+----similars----
+Pluto
+199b7289-b675-493a-9563-6982b2e702b3
+----similars----
+Os Pontos Negros
+c565cb44-f4a4-4583-a050-67e293e5c1d8
+----similars----
+Toranja
+d9cfa08e-c37c-4a20-8c83-4b302020521b
+----similars----
+sensible soccers
+a6cb6f3a-9692-4b46-b751-a65c01523872
+----similars----
+Mundo Cão
+13f06110-8d22-4ba9-87b2-33c52eb70581
+----similars----
+Tiago Bettencourt
+870e8ee5-79c4-4c09-906f-19eca13557cf
+----similars----
+X-Wife
+74fe4d6f-c556-441a-8609-272b026b350c
+----similars----
+David Fonseca
+65aaf08a-c92b-4000-9fa9-8f19670ac370
+----similars----
+Silence 4
+30c20e80-ed6b-4505-ba38-a4b6166add7a
+----similars----
+Best Youth
+1c913581-7f8c-4ad7-bdff-fdb208920d2e
+----similars----
+António Variações
+f5a21d30-7369-42fe-92b8-ef711f520d72
+----similars----
+The Legendary Tiger Man
+43f35799-1a6b-4f40-a89f-8624bf8a0d06
+----similars----
+Wraygunn
+e723934a-f9fa-4824-9ce6-ec56661c8110
+----similars----
+Blasted Mechanism
+5e2a19f4-8e61-4ed3-8ef5-f51e648731e7
+----similars----
+Sérgio Godinho
+208ec32e-f776-4b94-af14-ae97515d7863
+----similars----
+Norberto Lobo
+8e41cf00-57c6-409b-9306-fa567986c8a5
+----similars----
+Capicua
+451107dc-7d40-4bd4-86e6-f76e566ff17b
+----similars----
+GNR
+fcc14977-e172-4613-95d7-8e9943c462fe
+----similars----
+Frankie Chavez
+9c515db7-5d58-4b84-8594-825b4c45d0dd
+----similars----
+Black Bombaim
+aa073409-2901-4947-99b8-d30542e7162d
+----similars----
+Jorge Palma
+386c9f8f-31d8-4815-b4c5-7c875f96c2b0
+----similars----
+Ciclo Preparatório
+
+----similars----
+JP Simões
+27dded7d-a854-487d-a0c0-af5c05affcc8
+----similars----
+Sam The Kid
+93cbdf2f-15be-4b89-9370-a447963b4834
+----similars----
+Xutos & Pontapés
+12f2de9e-83d0-48ee-902b-c73d7a7cb6c9
+----similars----
+A Naifa
+e27c2c2a-e744-400e-8683-18e653b8f56e
+----similars----
+We Trust
+619f1315-8e2f-4dab-905a-3a7fb10d1f6d
+----similars----
+The Glockenwise
+6195f507-26fa-4b5d-b0e4-c0d050860795
+----similars----
+Indignu
+30b76c88-e1d5-453a-978c-3afa642122a8
+----similars----
+Márcia
+86e24a4f-7d2b-421b-ba1d-6ad4d87a219b
+----similars----
+Deolinda
+e6b785a1-8161-4083-8063-241cfdf7c202
+----similars----
+Salto
+
+----similars----
+José Afonso
+d06e7e71-0178-4e66-8150-044ff6047d64
+----similars----
+Carlos Paredes
+278e5176-b4f2-4a77-8ab3-5da847765b9e
+----similars----
+Clã
+a4a128ce-d33c-4f23-824b-80b7764b4171
+----similars----
+Dealema
+b59af814-bcff-4f63-af11-c1bd04c33e92
+----similars----
+Rui Veloso
+758416ad-4871-472a-ab82-fd6e1b7b6c67
+----similars----
+Virgem Suta
+81670e3b-0de5-496d-bfc3-51020b4545d2
+----similars----
+Tara Perdida
+e9903d99-ce19-443d-94d5-ef3d89d50b56
+----similars----
+Luísa Sobral
+7c5515b5-cad6-418d-8052-a127edb47ba0
+----similars----
+Os Azeitonas
+ac74ec38-3857-403f-af49-cb2d56e11b7c
+----similars----
+José Cid
+61999b78-db51-4331-b8d3-7fff1bc8bf70
+----similars----
+We Trust + Best Youth
+
+----similars----
+Amor Electro
+30f50f4e-223d-4eef-938f-5bdfd1043e76
+----similars----
+António Zambujo
+fb196c7b-9eaf-471f-b392-cfc9d4b61a9a
+----similars----
+The Gift
+56dea181-e531-45fc-a336-e67455829cfe
+----similars----
+Mazgani
+4e7f780f-5b3d-4ac9-b437-947338587a7d
+----similars----
+Tiago Bettencourt & Mantha
+
+----similars----
+Rodrigo Leão
+f3df0b46-d21a-4230-9a94-4082e8d6860b
+----similars----
+Ena Pá 2000
+4dc776c2-a16e-46d8-8a81-8c63804f373f
+----similars----
+For The Glory
+bde38312-91c9-4a89-8117-9c5c93af535e
+----similars----
+The Allstar Project
+64aed958-3dc9-47f7-871d-5c29ca4a76be
+----similars----
+More Than A Thousand
+06c1bbff-8e9f-42d1-82c3-36ed0e0771eb
+----similars----
+Humanos
+c496551d-fa60-44ab-881a-baf6d07be942
+----similars----
+Anarchicks
+
+----similars----
+Comme Restus
+60f46ad7-7725-4289-9f01-10109a28c6bb
+----similars----
+Valete
+d7ef84a5-334d-42dc-809a-453feb584e38
+----similars----
+Balla
+d330bdf8-0741-4f84-9523-fc837253d012
+----similars----
+Blind Zero
+32aca0ce-3969-454e-b2ca-05093c31f01a
+----similars----
+Anaquim
+0a13f895-8f47-4f2f-b616-3c9d0aa17364
+----similars----
+Quelle Dead Gazelle
+
+----similars----
+Mind Da Gap
+1cc027c2-c8e3-4cf3-b7d9-968477318927
+----similars----
+Feromona
+4c452b60-1efd-4cf9-aa7c-d167262477f7
+----similars----
+Nice Weather for Ducks
+
+----similars----
+Primitive Reason
+e95634e8-96af-4287-a2a1-91b7cc944c56
+----similars----
+Richie Campbell
+c352b1dc-798f-480a-a76e-c28858e91888
+----similars----
+Trêsporcento
+
+----similars----
+Rita Redshoes
+d83021d7-63cf-44c1-a735-da66e7fc1faa
+----similars----
+Minta & The Brook Trout
+298b67cd-839f-42cf-a9b4-c45e8036fadb
+----similars----
+Ermo
+a6e7d1a1-8454-4c6f-a766-364ef9bffd32
+----similars----
+Mesa
+66174d6f-f6af-4839-b250-d0f6881d9831
+----similars----
+O Bisonte
+6cdae5be-d146-4a08-b7e6-a8c9164e5c93
+----similars----
+Long Way to Alaska
+1c89f762-9b34-40b4-92bf-1b8ea5229c2a
+----similars----
+Os Golpes
+9a5652e7-105c-429e-bc0b-057f2a026487
+----similars----
+If Lucy Fell
+d44cf76b-de40-403a-bece-f0f958c8e02e
+----similars----
+Slimmy
+
+----similars----
+A Jigsaw
+00defec5-7395-43d2-8354-ee09ab5175a4
+----similars----
+Pedro Abrunhosa
+d80cfb78-51ee-446d-8b3d-578d50a7ce2e
+----similars----
+Hills Have Eyes
+4e25a0ae-785f-4941-b028-79d9ed19523c
+----similars----
+Heróis Do Mar
+52d01397-4ca0-4208-81dc-d776b0fc5d84
+USER ARTISTStereoboy
+
+
+USER ARTISTCarlos Guedes
+5c569f47-5201-4029-a7d0-2530be0bc077
+Carlos Guedes
+----similars----
+Jose Gonzales y Banda Criolla
+
+----similars----
+Stephan Mikes
+d64ddc61-114d-4d22-bffa-6196a04e6061
+----similars----
+David Hewitt
+450c85d3-ff56-4572-9b29-475d3fc3ac58
+----similars----
+Strunz And Farah
+
+----similars----
+Bernardo Rubaja
+3d4767aa-8eb6-4b4e-b190-0baf0415f084
+----similars----
+Michael Pluznick
+ddc90699-27af-4d47-8792-1198d071bd4f
+----similars----
+Roberto Perera
+6301e344-01f0-4efb-86d3-cb0269cd0c64
+----similars----
+Africando featuring Nicholas Menheim
+
+----similars----
+Nando Lauria
+2caeff7f-8b83-4a01-9d2c-dc1ac27c6934
+----similars----
+Africando featuring Medoune Diallo
+
+----similars----
+Stephan Mikés
+
+----similars----
+Africando featuring Amadou Balake
+
+----similars----
+Junior Homrich
+69360422-e39c-40fb-b687-8cc8999f2b6b
+----similars----
+Rumillajta
+000842dd-08e9-485f-a9b6-8ada9f1c4a12
+----similars----
+Mediu Xhiga
+
+----similars----
+Kotoja
+84d8b8fd-d99d-468f-bf44-50161bb4ea6c
+----similars----
+Richard Warner
+962886ec-c1f9-402e-9fed-6402dae07955
+----similars----
+Gurrufio
+c556e812-dfe2-4d10-960c-67ba9837d78f
+----similars----
+Glaucia Nasser
+1cf3732f-a447-4539-8b12-c7979ef69246
+----similars----
+Andan Diciendo
+
+----similars----
+Whalen, Michael
+
+----similars----
+Badar Ali Kahn
+
+----similars----
+Great African Moments
+
+----similars----
+OK! Ryos
+71dcf863-3175-4b72-975e-ebb621d64a5f
+----similars----
+Flor De Huevo
+
+----similars----
+La Petrona
+
+----similars----
+Watercolor Butterfly
+ad4bdd4d-eb3c-4c50-96f3-35ea741ddb6a
+----similars----
+Embowassa
+efd212e0-614d-4782-9ad4-d02610608cd1
+----similars----
+El Tecolote
+
+----similars----
+Bossacucanova feat. Adriana Calcanhotto
+
+----similars----
+Nuestro Nido
+
+----similars----
+Naila
+
+----similars----
+Stephan Mikйs
+
+----similars----
+Regional Vermelho E Branco
+673ca48d-3edc-4e20-b279-660fcad5d14f
+----similars----
+Shelly Phillips
+
+----similars----
+Quito Rymer
+85e7da04-e4a7-4a02-ab71-98625638af89
+----similars----
+Anna de Hollanda
+
+----similars----
+Josй Gonzбles Y Banda Criolla
+
+----similars----
+Scartaglen
+d36818f0-5e30-42fe-967f-4e260f744d53
+----similars----
+Ra Bacheeza
+
+----similars----
+Mαrcio Faraco
+
+----similars----
+Julia Haines
+2ebb47b3-f65c-47a8-ab37-a43ee9ed04e2
+----similars----
+Tam-Tam 2000
+a8d84353-abb3-4e75-9055-c7882de8c7e4
+----similars----
+Mαire Brennan (Of Clannad)
+
+----similars----
+Mτnica Salmaso
+
+----similars----
+Pepe & the Bottle Blondes
+4f1cff90-4dcd-43a7-a446-afd9d92e41e8
+----similars----
+BiD Feat. Seu Jorge
+
+----similars----
+Ruy Mingas
+
+----similars----
+Los Mocosos
+37f79214-7675-4145-8b0a-be2e3137f72b
+----similars----
+No Me Llores
+
+----similars----
+El Conjunto Massalia
+49808433-df58-4320-a95f-c674ec9709e4
+----similars----
+Omar Escandón Solís
+
+----similars----
+Son Huini
+
+----similars----
+Rojo Congo
+
+----similars----
+MequetreFonks
+
+----similars----
+Col 26
+
+----similars----
+Tío Gus
+
+----similars----
+Javier Eduardo Camacho
+
+----similars----
+Buckethead & Claypool
+
+----similars----
+Amante Acida
+
+----similars----
+Dave Pozzi'97
+
+----similars----
+Randy Roos
+2a774252-ec12-4f4b-85ca-908e798ba5e2
+----similars----
+Ricardo Lemvo
+96f6ba7b-3bc2-4eb2-bd1c-a599f57aac47
+----similars----
+Ella es dulce
+
+----similars----
+Groupe Oyiwan (France & Sudan)
+
+----similars----
+Ronald Rubinel's Salsa Kolor
+6901a0d5-ba5e-47f0-8183-0a908b3cd2d0
+----similars----
+Kenny Blake
+e34dab27-82c7-4993-b62e-0be29dae82fa
+----similars----
+Karen Matheson (Of Capercaillie)
+
+----similars----
+Idir (Algeria)
+
+----similars----
+Totσ La Momposina
+
+----similars----
+Funkanzazenji
+80f44afd-ab12-42b5-875b-c723943f9ac3
+----similars----
+Rossy
+c39462a1-2b7a-4333-b95f-d0620d974504
+----similars----
+Les Go
+f1d3370f-8af0-4c78-8adc-e1cc4d0c5ad8
+----similars----
+Carol Nethen
+972cb0a9-a0b3-459d-8a05-c5cf16141a60
+----similars----
+Dois Irmaos Feat. Mariana De Moraes
+
+----similars----
+Bidinte
+9de7c8e2-471a-4eb1-95e9-895de6e40709
+----similars----
+Mulehead
+9245215b-14ed-42e6-b950-7be768f24edb
+----similars----
+Madeka
+b27d255b-305a-4d28-afef-616d1d3592b8
+----similars----
+Barrio Chino
+ccc839cf-aee4-4908-ba95-48347ed0e7f6
+----similars----
+Dos Santos
+cf276909-2ba3-4867-b174-303e8e00fcec
+----similars----
+Long-Ge
+9d1ece10-a02e-4734-aaa2-0b731c107568
+----similars----
+Angelique Kidjo with Carlos Santana
+
+----similars----
+Capercaillie With Sibeba (Scotland & Guinea)
+
+----similars----
+The Garifuna Women's Project
+
+----similars----
+Road North
+
+----similars----
+Ana De Hollanda
+071040d8-0538-43bc-8d12-4fc31acabf33
+----similars----
+Los Tradicionales de Carlos Puebla
+
+----similars----
+Gabriela Mendes
+6db23829-0b63-4dda-861c-24d98c54a380
+----similars----
+Laye Sow
+de6cdb5a-b6e1-4052-bd1d-9e32cc0fcb34
+----similars----
+Sarazino
+40155090-01ca-4dc0-a656-17906df17b84
+----similars----
+Rene Ferrer
+482102fa-167a-4808-b61d-afdf2c49356a
+----similars----
+Mapumba
+1db665f6-efba-4861-8dc3-d8bf7adc14e7
+----similars----
+Asian Fusion
+
+----similars----
+Whirimako Black
+3452ce25-38d7-4705-a354-80d54fcf86e0
+----similars----
+Spirit of the Tao Te Ching
+
+----similars----
+Pepe Castillo
+a483d1c7-df27-46c5-85ce-5d30c383bb8e
+----similars----
+Bahia El Idrissi
+6d837570-5ca8-41c8-95b2-31d8caac24be
+----similars----
+Topsy Chapman and the Pros
+
+----similars----
+Claudia Martinez
+
+----similars----
+Mathieu Mathieu
+05d38ee6-6bb3-4578-ae46-b776eefd52a5
+USER ARTISTGalandum Galundaina
+
+
+USER ARTISTEvols
+
+
+USER ARTISTNeon Indian
+e8238c02-1cf0-4a51-bfd0-cee93904d351
+Neon Indian
+----similars----
+Washed Out
+74a30f2a-dae6-4e99-8a75-cb0f93b31aa6
+----similars----
+Toro y Moi
+3a6d6481-142d-423f-91d4-55bbfff318ed
+----similars----
+Small Black
+94c9f694-21b6-4b24-9722-4ea18f75f8e1
+----similars----
+Wild Nothing
+a181595e-5b84-4439-a5f4-f548ddfb64df
+----similars----
+Com Truise
+51f1ca49-846a-4ef1-b4fa-187ecc88bbe5
+----similars----
+Brothertiger
+5f95889e-44d6-4258-921a-b1671a8a025f
+----similars----
+MillionYoung
+ba0eb739-583a-456b-ac82-77b43716ab0c
+----similars----
+Craft Spells
+d3afff73-119e-406e-8551-9403e80c531b
+----similars----
+Cut Copy
+caaba574-dfbc-4681-8e56-19b5150897d2
+----similars----
+Starfucker
+0a19e3e4-7970-4adf-8439-90bdcc9c8661
+----similars----
+DIIV
+b5ff61dd-0154-4e80-b46b-c733f87db602
+----similars----
+Blackbird Blackbird
+46e32991-1e7b-4575-9206-8e6519c97c14
+----similars----
+Twin Shadow
+8d831383-b22b-4237-8059-12bee111e4b6
+----similars----
+Panda Bear
+fd3c3f9f-a471-498e-ab3a-940ac20b6bbd
+----similars----
+Teen Daze
+6ae38268-01a7-413b-8827-80dab10794c9
+----similars----
+Wavves
+763cf642-45ad-42ed-a1c3-e977eaa3b260
+----similars----
+Memory Tapes
+fbd33a5a-06b5-4b46-98d1-8677f5dc44c6
+----similars----
+Beach Fossils
+3df3818e-7984-4c62-bee3-81f95f8c6651
+----similars----
+Tame Impala
+63aa26c3-d59b-4da4-84ac-716b54f1ef4d
+----similars----
+Ducktails
+06b0aa09-5b86-4d41-88a2-e86bd8df1555
+----similars----
+Heavenly Beat
+29b8f93f-4708-47fd-ba34-d98e2617142f
+----similars----
+The Drums
+c3ecef5d-84f3-4942-8c24-0a626343c3f4
+----similars----
+Real Estate
+2ff0dfc6-0542-4bbc-a44a-60605c074ba6
+----similars----
+Miami Horror
+fa92553b-3cd5-4876-a7db-1d9dfcdf9fa9
+----similars----
+Animal Collective
+0c751690-c784-4a4f-b1e4-c1de27d47581
+----similars----
+Melody's Echo Chamber
+
+----similars----
+Black Moth Super Rainbow
+44e14e88-b17a-44d8-9e94-f3afa977239b
+----similars----
+Beach House
+d5cc67b8-1cc4-453b-96e8-44487acdebea
+----similars----
+Holy Ghost!
+3c0d5463-6688-4f4a-8273-a191657d8084
+----similars----
+Casa Del Mirto
+315aae32-29a8-46c8-b9a5-b448512f6cb1
+----similars----
+Thieves Like Us
+73c46e29-a6f1-4900-bee8-f9e2662535cb
+----similars----
+Mac DeMarco
+f2492c31-54a8-4347-a1fc-f81f72873bbf
+----similars----
+Baths
+84a5c934-8318-4080-8606-32b80e1b054a
+----similars----
+Discovery
+970dd74a-39f1-4f13-8929-6319f1ae05ec
+----similars----
+Lotus Plaza
+53e4ba89-ba63-4d12-b7c4-3198a2b003b4
+----similars----
+Purity Ring
+fdb53441-e5e6-4657-9aad-8dab672e1cdc
+----similars----
+Unknown Mortal Orchestra
+e2305342-0bde-4a2c-aed0-4b88694834de
+----similars----
+Class Actress
+82bb81ce-8eac-409a-8472-c2dcd1aa6433
+----similars----
+Twin Sister
+04b3a7ac-865b-41be-88bb-a49cb8bb568b
+----similars----
+Cults
+4c671d5a-7027-4398-8055-03e61d1a3967
+----similars----
+Work Drugs
+8aac35ef-e54d-4bcd-9682-e0cced4a6ea2
+----similars----
+Delorean
+56c9c56a-3ffc-4489-95f0-c93cb222f1e9
+----similars----
+Gold Panda
+bfbccd40-1a06-4ee7-b24d-b2f8cc714fa9
+----similars----
+Ariel Pink's Haunted Graffiti
+
+----similars----
+Tobacco
+357d27b6-f7c8-4d8b-84f2-8708678fb626
+----similars----
+Memory Cassette
+a3ef8948-afef-45f4-ae6d-97d98f33fa85
+----similars----
+Youth Lagoon
+4a18722d-5a98-41c8-9e86-814afbffc704
+----similars----
+Slow Magic
+20cb03e2-acfd-439f-9db2-ce8fcc67b220
+----similars----
+Blouse
+e9fcd661-cf2f-4792-aa50-364e1a576ac3
+----similars----
+Atlas Sound
+1a02453e-5f86-4220-abd6-1d889d2fa517
+----similars----
+MGMT
+50e6288e-3db5-4253-ae51-5e8738ef2c31
+----similars----
+Deerhunter
+4f416ed7-dda2-45de-a6f1-b986e861cf4b
+----similars----
+Passion Pit
+daeec599-bf5d-4428-994a-e76ba5f86e2f
+----similars----
+Grizzly Bear
+59a7fbcb-ff74-494d-abd0-9c82359040c9
+----similars----
+Friendly Fires
+ef656595-bbe8-4386-8953-be8df9f54472
+----similars----
+Metronomy
+93eb7110-0bc9-4d3f-816b-4b52ef982ec8
+----similars----
+LCD Soundsystem
+2aaf7396-6ab8-40f3-9776-a41c42c8e26b
+----similars----
+Smith Westerns
+1541f1ff-e249-4c85-84d9-6125bb3fe4b9
+----similars----
+Chairlift
+a3cd61ef-7fd4-44af-a27f-99641a82b22b
+----similars----
+Girls
+02d05d0b-034c-47a2-b795-34c900a5d16b
+----similars----
+Grimes
+7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222
+----similars----
+Tanlines
+1828f695-763c-4194-9b16-44c82bb0f9d1
+----similars----
+Blood Orange
+3d254f1e-7d18-431b-baeb-68e57695dfdb
+----similars----
+Summer Heart
+c54d599b-a38d-4410-b6c6-0f4f2281010a
+----similars----
+Caribou
+735e3514-a8ae-401f-af3b-6300df1b8d2c
+----similars----
+Giraffage
+15d60916-47e0-4f09-83f4-9e466a284830
+----similars----
+Classixx
+efd54131-7dba-4dac-ba44-8c8eebe4f000
+----similars----
+M83
+6d7b7cd4-254b-4c25-83f6-dd20f98ceacd
+----similars----
+Phantogram
+380742d2-0cf2-462d-b63d-a5c2259b3987
+----similars----
+Memoryhouse
+86e511e5-74b7-49bc-b282-5947358541cb
+----similars----
+Teeel
+697d4123-820a-46f8-9a4e-f303de02213c
+----similars----
+Tycho
+6d56f5cf-211b-418a-ace2-2983c33f530f
+----similars----
+of Montreal
+8475297d-fb78-4630-8d74-9b87b6bb7cc8
+----similars----
+Beat Connection
+8ca7fad8-268f-4efd-9df7-4f9f5f501e35
+----similars----
+Flying Lotus
+fc7376fe-1a6f-4414-b4a7-83f50ed59c92
+----similars----
+Sleigh Bells
+95f7536d-b2f7-4087-8668-a663ec201f5a
+----similars----
+Chromatics
+0589aa4e-2138-4c8a-aaab-ef4a93779583
+----similars----
+Avey Tare
+22568c9d-8ef3-4224-b994-8e0658e1082a
+----similars----
+Kisses
+16020554-65c7-464d-a7ce-b44ab93f161f
+----similars----
+Big Spider's Back
+f299187a-3b39-4b34-90eb-9dcee39f5b71
+----similars----
+XXYYXX
+0fd82861-8184-4b6e-a6b1-f2093e2b3163
+----similars----
+Miike Snow
+753a1564-aaef-4d39-bc68-4a8d5e328cf7
+----similars----
+The Radio Dept.
+e664d1cd-23ab-48d5-b8fa-e98485daa5be
+----similars----
+Empire of the Sun
+ac7e838c-3d95-47c2-92a9-81767ad7c217
+----similars----
+Bear in Heaven
+56677704-9fa7-4150-9b18-a3b21ff72bc1
+----similars----
+Bibio
+9f9953f0-68bb-4ce3-aace-2f44c87f0aa3
+----similars----
+El Guincho
+7e57d8a2-e6eb-48dd-8e50-ff7eaa412ccb
+----similars----
+Porcelain Raft
+259380ed-4705-495d-9484-90ff43f8a162
+----similars----
+The Avalanches
+a6623d39-2d8e-4f70-8242-0a9553b91e50
+----similars----
+The Pains of Being Pure At Heart
+46f4e349-ddec-4131-9367-91b630a821d0
+----similars----
+Little Dragon
+c8a9ae11-63bf-409b-8bf3-a96b3712a2ff
+----similars----
+Avey Tare's Slasher Flicks
+3e27a35f-117a-4fae-a13c-ea340d6cc336
+----similars----
+Chrome Sparks
+138a2979-8c8a-4de5-8bfd-76f6227bd457
+----similars----
+Seapony
+24a2430f-86ae-4643-8dfa-938899f09aa6
+----similars----
+Saint Pepsi
+21087a8d-5967-40ce-bd93-ae56c8ab1964
+----similars----
+Yeasayer
+3feba7fa-3837-424a-b4f1-0077d217f569
+----similars----
+Digitalism
+7b52603c-a84c-4a76-8dc8-899bb4dd9fa7
+----similars----
+Pond
+1ef504e7-2f2d-41a5-9536-64f161f54174
+----similars----
+PNAU
+280eb9d8-5a57-497c-89c2-d66ddd90f2d2
+----similars----
+Chad Valley
+dab9de0a-3517-44a9-b8a6-048f51b53490
+USER ARTISTThe Whitest Boy Alive
+
+
+USER ARTISTKings of Convenience- KOC
+cf0f4547-ffbd-4011-98ad-0bec9ba022db
+Kings of Convenience
+----similars----
+The Whitest Boy Alive
+f83781c8-64f9-4657-85bd-51f74d195cfd
+----similars----
+Erlend Øye
+bdb8e865-98f6-4dd3-a8ac-74b9b7ae8abd
+----similars----
+Adhitia Sofyan
+dbdec790-0b21-422f-8e77-762795e05687
+----similars----
+Feist
+a670e05a-cea8-4b37-bce9-d82daf1a0fa4
+----similars----
+Sore
+0026cf1b-34ca-4412-a9e2-de7793d5beea
+----similars----
+White Shoes & The Couples Company
+534a836e-a17a-4f56-8c7a-7ffdf2ab5ad3
+----similars----
+Sondre Lerche
+a1c29c2f-778f-4b02-9ac7-80f0c37cdea9
+----similars----
+Naif
+bf0f7699-117a-4001-8295-ef47035c4e2a
+----similars----
+Efek Rumah Kaca
+df5507cd-4ff3-45bb-ad45-ab85dc1e2ace
+----similars----
+Beirut
+0af78501-5647-4c18-9a0d-66ac8789e13b
+----similars----
+José González
+cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8
+----similars----
+Mocca
+8aeabd02-d239-4d45-9f00-3929c63ab737
+----similars----
+MALIQ & D'Essentials
+4e6ed573-dfcd-4b62-9335-5d1152acd0bf
+----similars----
+Float
+4e39a52b-002e-48c0-bca5-f76fda1a4177
+----similars----
+Endah N Rhesa
+
+----similars----
+The Radio Dept.
+e664d1cd-23ab-48d5-b8fa-e98485daa5be
+----similars----
+Phoenix
+02f4c1ff-65e0-4412-8e8b-6239b0faecb5
+----similars----
+Belle and Sebastian
+6c6011d1-7e13-4ea8-9858-a9b37ece668e
+----similars----
+The Trees & The Wild
+36883057-c409-4207-b0a7-6c8456658055
+----similars----
+Sheila On 7
+f39c0afd-e66a-492b-ab1e-9b6acf98614a
+----similars----
+Mew
+887346ec-1f7a-493d-b987-acc04752855f
+----similars----
+Fleet Foxes
+fa97dd36-1b82-43d7-a6e4-2adeafd59cef
+----similars----
+Devendra Banhart
+0110e63e-0a9b-4818-af8e-41e180c20b9a
+----similars----
+Tulus
+3e334ee6-7630-4632-b2b6-1c65b36ad515
+----similars----
+Little Joy
+68a0067a-7a3a-43d3-bd91-391ea7600d8c
+----similars----
+Tahiti 80
+cbdbfa40-a839-4fa2-a5e1-dbd6e84fe1fd
+----similars----
+Acid House Kings
+c3ee2b9c-d315-41c3-b55a-3c1c2b29addf
+----similars----
+Frau
+b723e02d-dc1e-4e13-a9a2-57df51383d27
+----similars----
+Camera Obscura
+5f2e7aab-eb20-469b-ad4a-72deb3eb89e7
+----similars----
+Angus & Julia Stone
+69837400-8e31-4949-aac2-00b46b4df126
+----similars----
+Payung Teduh
+
+----similars----
+She & Him
+fb821608-35fd-4a45-a4b2-1a0537cee111
+----similars----
+Rhye
+aa914efa-d6cb-4816-906f-8edafb08418e
+----similars----
+The Drums
+c3ecef5d-84f3-4942-8c24-0a626343c3f4
+----similars----
+Wild Nothing
+a181595e-5b84-4439-a5f4-f548ddfb64df
+----similars----
+Club 8
+e7fa2614-2da5-496f-b575-07ece506a5d2
+----similars----
+The S.I.G.I.T
+
+----similars----
+Bon Iver
+437a0e49-c6ae-42f6-a6c1-84f25ed366bc
+----similars----
+The National
+664c3e0e-42d8-48c1-b209-1efca19c0325
+----similars----
+Breakbot
+64c9974f-20a9-491d-bd94-2168cd738e2a
+----similars----
+Zee Avi
+abb85a9c-c740-451a-8ea0-a236e1916c67
+----similars----
+Iron & Wine
+c3f28da8-662d-4f09-bdc7-3084bf685930
+----similars----
+Copeland
+17be38e7-97bf-4ead-8432-ba05455b3860
+----similars----
+Bombay Bicycle Club
+0ae49abe-d6af-44fa-8ab0-b9ace5690e6f
+----similars----
+Sigur Rós
+f6f2326f-6b25-4170-b89d-e235b25508e8
+----similars----
+DEPAPEPE
+c2789b3f-1818-44f2-b3a8-108f7f26bd32
+----similars----
+Kakkmaddafakka
+4ecdfa5d-5516-46ef-8e9b-b15792ed88c3
+----similars----
+Alex Turner
+ee953029-6de8-4c50-8d0f-215a1e4e8dd6
+----similars----
+The Temper Trap
+bb6eaced-69dd-4636-829f-9f987acc4fc3
+----similars----
+Beach House
+d5cc67b8-1cc4-453b-96e8-44487acdebea
+----similars----
+Damien Rice
+2119beb8-6ac5-4f21-82a4-b831c90c0024
+----similars----
+Peter Bjorn and John
+32a83250-7e26-422d-b9ac-f4564343e9ce
+----similars----
+Carla Bruni
+f90575d1-abcb-42b3-ae32-1849312c26e6
+----similars----
+Nick Drake
+99ea432a-e3d8-42cb-9d5e-db316a6a8458
+----similars----
+Coldplay
+cc197bad-dc9c-440d-a5b5-d52ba2e14234
+----similars----
+Lucy Rose
+c79df192-153f-4cc3-b9bf-9c36bc797c73
+----similars----
+Keane
+c7020c6d-cae9-4db3-92a7-e5c561cbad50
+----similars----
+Röyksopp
+1c70a3fc-fa3c-4be1-8b55-c3192db8a884
+----similars----
+Yann Tiersen
+12d432a3-feb0-49b1-a107-d20751880764
+----similars----
+Noah and the Whale
+917bc621-ad02-477d-9308-a0304c5f9727
+----similars----
+Jamie Cullum
+15f8b16a-7a0b-4a12-9f3f-e53f2451f7d7
+----similars----
+Grizzly Bear
+59a7fbcb-ff74-494d-abd0-9c82359040c9
+----similars----
+The Tallest Man on Earth
+7e35659f-f3bb-4c28-bcf5-47bd5cfa2bca
+----similars----
+Junip
+fb2df245-81b0-4a2b-9d01-e0955ba68be7
+----similars----
+Pure Saturday
+
+----similars----
+Efterklang
+8a7bed97-f080-4984-8db5-2ea5c82d8b33
+----similars----
+Tame Impala
+63aa26c3-d59b-4da4-84ac-716b54f1ef4d
+----similars----
+Washed Out
+74a30f2a-dae6-4e99-8a75-cb0f93b31aa6
+----similars----
+Heavenly Beat
+29b8f93f-4708-47fd-ba34-d98e2617142f
+----similars----
+Jens Lekman
+41aa2734-ec86-4197-a074-d44886e7da8d
+----similars----
+The xx
+c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6
+----similars----
+Radiohead
+a74b1b7f-71a5-4011-9441-d0b5e4122711
+----similars----
+Real Estate
+2ff0dfc6-0542-4bbc-a44a-60605c074ba6
+----similars----
+The Kooks
+c41c6a32-cd7e-4cce-8859-559efdd457b3
+----similars----
+Death Cab for Cutie
+0039c7ae-e1a7-4a7d-9b49-0cbc716821a6
+----similars----
+Nouvelle Vague
+77cceea7-91bb-4a4c-ae41-bc9c46c1ccb5
+----similars----
+Foals
+6a65d878-fcd0-42cf-aff9-ca1d636a8bcc
+----similars----
+Jack Johnson
+6456a893-c1e9-4e3d-86f7-0008b0a3ac8a
+----similars----
+Travis
+22a40b75-affc-4e69-8884-266d087e4751
+----similars----
+Toro y Moi
+3a6d6481-142d-423f-91d4-55bbfff318ed
+----similars----
+Metronomy
+93eb7110-0bc9-4d3f-816b-4b52ef982ec8
+----similars----
+Oren Lavie
+411f15e4-fdad-4d09-beca-0201c2e56727
+----similars----
+Padi
+cddcc6db-d909-494a-b98e-37620cb22d3d
+----similars----
+Architecture in Helsinki
+6247b769-bb8a-4b48-b917-7068d04d10d7
+----similars----
+Frou Frou
+d614b0ad-fe3a-4927-b413-48cb831a814b
+----similars----
+The Bird and the Bee
+d08b66b4-8950-439f-bd8e-2dd78dbd7a5f
+----similars----
+Marcelo Camelo
+a93df1fc-6d82-403b-ab4a-61791171dea8
+----similars----
+John Mayer
+144ef525-85e9-40c3-8335-02c32d0861f3
+----similars----
+The Adams
+d4748ea9-0a87-4480-90ee-3b373e2eea1c
+----similars----
+The Cardigans
+3e55d51d-687f-4a9d-af96-2fabccf802e5
+----similars----
+Bonobo
+6f7dea51-1d02-4be1-b138-92078518350c
+----similars----
+Jónsi
+0ecc2c46-d335-485c-a077-240482609672
+----similars----
+Ten2Five
+79da84d8-b138-4164-89e0-862b96240ffa
+----similars----
+Explosions in the Sky
+1c4b9280-7bee-4fdd-8886-daa627d471a0
+----similars----
+Chet Baker
+1ba1d493-7114-45e2-b163-a36d49a0c065
+----similars----
+Last Dinosaurs
+546b225b-162d-4b81-b649-032616736db7
+----similars----
+Air
+018dcc90-b1a2-400a-a96e-64b6a101f009
+----similars----
+Jorge Drexler
+abb91078-f7db-41f2-8f07-7f37bb739143
+----similars----
+Ólafur Arnalds
+0ebdf343-c489-4293-af55-0be1029003fe
+----similars----
+Edson
+7524938f-ff0f-4c22-b0ce-4b97e24731bb
+USER ARTISTThievery Corporation
+
+
+USER ARTISTBanana Royale
+80ffbd84-e0aa-4a56-a74e-aee7bf844598
+Royale
+----similars----
+Os Almeida
+1faf4cbe-e953-4039-b242-aae0e0282ac2
+----similars----
+Astronauta Pinguim
+afa769fc-4ebf-43d7-86d2-324ed522a829
+----similars----
+Shakemakers
+fe77902b-0c86-47fb-8261-57dbfe4b82e8
+----similars----
+Sebastião Estiva
+
+----similars----
+Audiences
+9f4fa29c-322d-40a5-8bf7-3effb0e8af66
+----similars----
+IMPAR
+
+----similars----
+Phenom
+9de1f94a-979c-4385-88df-845f5078e898
+----similars----
+A banda de um amigo meu
+230a437b-d6b5-4348-8411-88c50acf4fdf
+----similars----
+William Laxtons
+c5ca63fd-1993-4082-b2cb-d92734d607a9
+----similars----
+Os Insertos
+3caa7e65-2fba-4db7-aeaa-31712ba22791
+----similars----
+Vini F.
+59577611-9c07-4aea-a750-a08a17c1a092
+----similars----
+fantastic 5
+a1a5c948-6728-40c4-976c-6604bc1d2ad2
+----similars----
+Leus Perdis
+
+----similars----
+Les Sucettes
+d44d2624-7272-4173-83fa-f86143afca72
+----similars----
+cactus cream
+85cae6fa-3048-4436-97c9-6b9e83afc76a
+----similars----
+Superlego
+014a1c74-0f00-4add-9d7d-690965626389
+----similars----
+Mario Broz
+
+----similars----
+Batucada Valvulada
+194c9fbc-7886-4dc6-8b4c-a2193736038f
+----similars----
+Fishermans Mission
+
+----similars----
+Sigcell
+
+----similars----
+The Deer In Your Headlights
+
+----similars----
+Kill Wealthy Dowager
+51052e69-5389-4051-bd12-6963903cc09a
+----similars----
+HetFDEx
+
+----similars----
+Nick Grieco
+
+----similars----
+Gram D Mori
+401c061d-8d6f-49e7-86ea-449133a73743
+----similars----
+The Not Worth Knowing
+
+----similars----
+2MAN OP
+
+----similars----
+Some Say Yes Some Do Less
+da326676-35d8-4bdd-bc19-9b730945d1ff
+----similars----
+NUOVE OFFICINE RUMORI
+
+----similars----
+Absinthe Junk
+
+----similars----
+Runa Los Atta
+
+----similars----
+Psychedelic Disco Angels
+
+----similars----
+Alongside the Quay
+75574527-990e-48e1-a8fe-aa5999cafbb8
+----similars----
+Quartzo
+3606d922-37e4-4c5b-bfc0-7baeada746d4
+----similars----
+Akierima
+
+----similars----
+The Kardia
+
+----similars----
+Preast
+
+----similars----
+Aeropause
+
+----similars----
+From The Petrified Forest
+
+----similars----
+Cyril Snear
+
+----similars----
+The Flight Out
+
+----similars----
+Euphonic Dissonance
+
+----similars----
+The Kunadiuns
+
+----similars----
+OBE-CALP
+
+----similars----
+Paul Dodson
+
+----similars----
+The Ultimate Rhino Combo
+
+----similars----
+Repair The Armistice
+
+----similars----
+Fear the Mutiny
+
+----similars----
+Plato Divorak & Banda
+
+----similars----
+AC (Alternative Control)
+
+----similars----
+Mindweep
+
+----similars----
+Leonidas
+
+----similars----
+Kingstreet
+e583e57f-d25b-487e-8be8-b10ca1444d6b
+----similars----
+The Cartesian Circle
+
+----similars----
+Juvenile Euphemism
+
+----similars----
+Primacy Effect
+
+----similars----
+Shin-En
+
+----similars----
+Crucifiction Afterparty
+
+----similars----
+The Numbers Twist
+
+----similars----
+Molten Lava
+
+----similars----
+Theoptic Honey
+
+----similars----
+Badgers vs Penguins
+
+----similars----
+Busses
+
+----similars----
+The Black Dove Experiment
+
+----similars----
+Silver Junkie
+
+----similars----
+Imagiro
+b6a0589a-6146-4986-8d00-a6a141241e2b
+----similars----
+Spring(IL)
+
+----similars----
+Youth Guard
+
+----similars----
+The Good Library
+
+----similars----
+Kick Asteroid
+
+----similars----
+Slepy Pes
+
+----similars----
+A Julius Orange
+
+----similars----
+Alien Stash Tin
+
+----similars----
+Spring Gun
+
+----similars----
+Bransen
+
+----similars----
+Wolfgang Pop
+
+----similars----
+Os Vilsos
+c8b745f6-1ab1-4232-990e-2025bc644623
+----similars----
+Messed Up Magic
+
+----similars----
+Environments in Progress
+
+----similars----
+VitalLight
+
+----similars----
+The Young Maths
+
+----similars----
+ThE Paid
+
+----similars----
+Spiderland
+
+----similars----
+Weirdo Rock
+
+----similars----
+Forging Reverie
+
+----similars----
+En Pursuit
+
+----similars----
+The Clovis People
+
+----similars----
+Language Of Kings
+
+----similars----
+Ramon Serrano
+5f5123d4-94b7-461a-bd3d-e65ea0806dca
+----similars----
+Crown Atlantic
+
+----similars----
+Galactic North
+b57f6b8d-70c4-4650-9a78-0ad4b7f2ad4d
+----similars----
+We Came As Centaurs
+
+----similars----
+Clube da Luta
+eba73724-0723-4ff4-9cb3-81b9c6d998f5
+----similars----
+ARTILECT
+
+----similars----
+The Whole Week
+
+----similars----
+Silent Aeon Of The Noise
+
+----similars----
+Life Blown Open
+
+----similars----
+Pawn (American)
+
+----similars----
+Hudson Fall
+
+----similars----
+The Mission Orange
+
+USER ARTISTHOMENS DA LUTA
+
+
+USER ARTISTZero 7
+
+
+USER ARTISTMassive Attack
+
+
+USER ARTISTBlur
+
+
+USER ARTISTOrnatos Violeta
+7a749f7d-2c67-4900-b4ba-1454c609ee79
+Ornatos Violeta
+----similars----
+Foge Foge Bandido
+4f128265-a7f7-48cf-9aef-8f74f0854b1b
+----similars----
+Linda Martini
+569e075d-87fb-4ca9-9b4f-4091334c2bbf
+----similars----
+SuperNada
+9b9eb423-a029-44bd-970b-d531f7658525
+----similars----
+Pluto
+199b7289-b675-493a-9563-6982b2e702b3
+----similars----
+Toranja
+d9cfa08e-c37c-4a20-8c83-4b302020521b
+----similars----
+Da Weasel
+d340a71c-4c25-4c1a-b03a-610b063b7ee3
+----similars----
+Diabo Na Cruz
+545243a3-1b6c-4d73-8344-76498b7997b6
+----similars----
+Silence 4
+30c20e80-ed6b-4505-ba38-a4b6166add7a
+----similars----
+Doismileoito
+01d3159c-c221-4442-a381-10aa91a79e9d
+----similars----
+Peixe : Avião
+0d2c3b0c-579c-4010-8e00-b6b6a92ade21
+----similars----
+Rui Veloso
+758416ad-4871-472a-ab82-fd6e1b7b6c67
+----similars----
+Jorge Palma
+386c9f8f-31d8-4815-b4c5-7c875f96c2b0
+----similars----
+B Fachada
+fcfaeca9-4ebe-41d8-9381-473d3d7980b7
+----similars----
+Capitão Fausto
+23b2da42-f7d4-41af-bd51-c6f9bebcc2d2
+----similars----
+Clã
+a4a128ce-d33c-4f23-824b-80b7764b4171
+----similars----
+Dead Combo
+092ae9e2-60bf-4b66-aa33-9e31754d1924
+----similars----
+GNR
+fcc14977-e172-4613-95d7-8e9943c462fe
+----similars----
+Xutos & Pontapés
+12f2de9e-83d0-48ee-902b-c73d7a7cb6c9
+----similars----
+Paus
+640740af-3af2-450f-a17d-c45268859412
+----similars----
+David Fonseca
+65aaf08a-c92b-4000-9fa9-8f19670ac370
+----similars----
+Os Pontos Negros
+c565cb44-f4a4-4583-a050-67e293e5c1d8
+----similars----
+Deolinda
+e6b785a1-8161-4083-8063-241cfdf7c202
+----similars----
+António Variações
+f5a21d30-7369-42fe-92b8-ef711f520d72
+----similars----
+Tiago Bettencourt
+870e8ee5-79c4-4c09-906f-19eca13557cf
+----similars----
+Samuel Úria
+
+----similars----
+Virgem Suta
+81670e3b-0de5-496d-bfc3-51020b4545d2
+----similars----
+Mundo Cão
+13f06110-8d22-4ba9-87b2-33c52eb70581
+----similars----
+Sérgio Godinho
+208ec32e-f776-4b94-af14-ae97515d7863
+----similars----
+José Afonso
+d06e7e71-0178-4e66-8150-044ff6047d64
+----similars----
+Orelha Negra
+4f305d57-ed93-4e22-99a6-871725da5066
+----similars----
+Mão Morta
+30516a17-e753-4f4f-986d-d775090d437e
+----similars----
+Noiserv
+79705997-4d5b-49e5-81ec-0b31679bacb4
+----similars----
+Blasted Mechanism
+5e2a19f4-8e61-4ed3-8ef5-f51e648731e7
+----similars----
+Humanos
+c496551d-fa60-44ab-881a-baf6d07be942
+----similars----
+Wraygunn
+e723934a-f9fa-4824-9ce6-ec56661c8110
+----similars----
+Mesa
+66174d6f-f6af-4839-b250-d0f6881d9831
+----similars----
+Frankie Chavez
+9c515db7-5d58-4b84-8594-825b4c45d0dd
+----similars----
+Os Azeitonas
+ac74ec38-3857-403f-af49-cb2d56e11b7c
+----similars----
+Tiago Bettencourt & Mantha
+
+----similars----
+Tara Perdida
+e9903d99-ce19-443d-94d5-ef3d89d50b56
+----similars----
+Carlos Paredes
+278e5176-b4f2-4a77-8ab3-5da847765b9e
+----similars----
+Memória de Peixe
+
+----similars----
+Amor Electro
+30f50f4e-223d-4eef-938f-5bdfd1043e76
+----similars----
+X-Wife
+74fe4d6f-c556-441a-8609-272b026b350c
+----similars----
+Sam The Kid
+93cbdf2f-15be-4b89-9370-a447963b4834
+----similars----
+You Can't Win, Charlie Brown
+64ee921f-32a0-465a-b34d-4ab6bc9cbb2c
+----similars----
+Filho da Mãe
+eeb64a53-7395-4677-baeb-56c200d4f1f3
+----similars----
+The Legendary Tiger Man
+43f35799-1a6b-4f40-a89f-8624bf8a0d06
+----similars----
+JP Simões
+27dded7d-a854-487d-a0c0-af5c05affcc8
+----similars----
+António Zambujo
+fb196c7b-9eaf-471f-b392-cfc9d4b61a9a
+----similars----
+Anaquim
+0a13f895-8f47-4f2f-b616-3c9d0aa17364
+----similars----
+José Cid
+61999b78-db51-4331-b8d3-7fff1bc8bf70
+----similars----
+The Gift
+56dea181-e531-45fc-a336-e67455829cfe
+----similars----
+Norberto Lobo
+8e41cf00-57c6-409b-9306-fa567986c8a5
+----similars----
+A Naifa
+e27c2c2a-e744-400e-8683-18e653b8f56e
+----similars----
+Blind Zero
+32aca0ce-3969-454e-b2ca-05093c31f01a
+----similars----
+Valete
+d7ef84a5-334d-42dc-809a-453feb584e38
+----similars----
+Luísa Sobral
+7c5515b5-cad6-418d-8052-a127edb47ba0
+----similars----
+Slimmy
+
+----similars----
+We Trust
+619f1315-8e2f-4dab-905a-3a7fb10d1f6d
+----similars----
+Rita Redshoes
+d83021d7-63cf-44c1-a735-da66e7fc1faa
+----similars----
+Ena Pá 2000
+4dc776c2-a16e-46d8-8a81-8c63804f373f
+----similars----
+Expensive Soul
+f7f7d339-0eae-4d9e-ba05-1544e78307d4
+----similars----
+Balla
+d330bdf8-0741-4f84-9523-fc837253d012
+----similars----
+Dealema
+b59af814-bcff-4f63-af11-c1bd04c33e92
+----similars----
+Best Youth
+1c913581-7f8c-4ad7-bdff-fdb208920d2e
+----similars----
+Pedro Abrunhosa
+d80cfb78-51ee-446d-8b3d-578d50a7ce2e
+----similars----
+Richie Campbell
+c352b1dc-798f-480a-a76e-c28858e91888
+----similars----
+Rodrigo Leão
+f3df0b46-d21a-4230-9a94-4082e8d6860b
+----similars----
+Mind Da Gap
+1cc027c2-c8e3-4cf3-b7d9-968477318927
+----similars----
+Salto
+
+----similars----
+Boss AC
+cb972e79-ed3a-4d2b-a4c1-4b3a7e429a42
+----similars----
+Riding Pânico
+f44b00f3-3356-4b8d-a320-06ced07f3036
+----similars----
+Heróis Do Mar
+52d01397-4ca0-4208-81dc-d776b0fc5d84
+----similars----
+Comme Restus
+60f46ad7-7725-4289-9f01-10109a28c6bb
+----similars----
+Márcia
+86e24a4f-7d2b-421b-ba1d-6ad4d87a219b
+----similars----
+Rádio Macau
+d7753fb3-5447-4ef2-bd1c-94805f57e407
+----similars----
+Ana Moura
+38396ed8-7adf-4224-b3c4-e567c226922e
+----similars----
+We Trust + Best Youth
+
+----similars----
+UHF
+0959be24-6724-4e31-b538-f6e825b8a44e
+----similars----
+Ciclo Preparatório
+
+----similars----
+Primitive Reason
+e95634e8-96af-4287-a2a1-91b7cc944c56
+----similars----
+Camané
+e844e4f0-9ad0-4fc4-ad65-00b732ea6727
+----similars----
+Men Eater
+fbb62880-5fb7-4a0d-bb02-a45b8349993d
+----similars----
+Aurea
+6b8a2c7d-8a8c-47c5-8136-d50369c48b00
+----similars----
+Sétima Legião
+60af4c2d-9d37-4687-b865-700552f91b3a
+----similars----
+Feromona
+4c452b60-1efd-4cf9-aa7c-d167262477f7
+----similars----
+Miguel Araújo
+
+----similars----
+Delfins
+4e6c2aa8-4df0-4888-8ecc-e93ec474a9d7
+----similars----
+Capicua
+451107dc-7d40-4bd4-86e6-f76e566ff17b
+----similars----
+Amália Rodrigues
+6b605219-90fa-465e-82ae-60d2347bd030
+----similars----
+Mafalda Veiga
+b8d9aca9-ba8c-4822-ad2d-0b5a0e113fff
+----similars----
+Mazgani
+4e7f780f-5b3d-4ac9-b437-947338587a7d
+----similars----
+José Mário Branco
+382f06d0-580b-4eef-b606-a5b8c2ff5117
+----similars----
+Oquestrada
+
+----similars----
+Minta & The Brook Trout
+298b67cd-839f-42cf-a9b4-c45e8036fadb
+----similars----
+Censurados
+e01abf63-9ccd-4e7a-a5bd-4c003afdb492
+----similars----
+Madredeus
+8e74d54f-42f3-463c-8fa9-16f4fb0ec0a4
+----similars----
+Carminho
+85bec8d9-59c4-4051-be75-e0cca7456dc5
+----similars----
+Dazkarieh
+24bf6c7e-77a1-4cb4-8da5-ea6b56686657
+USER ARTISTOs Andantes
+35d7e360-9167-4126-9224-a759a50768f7
+The Andantes
+----similars----
+Linda Griner
+fe910e90-1770-468a-9c89-00a6421b99ac
+----similars----
+Jimmie Gresham
+
+----similars----
+Josie Marva
+
+----similars----
+Shirley & the Shirelles
+f5f7748a-3a5a-493d-b3fb-a6ab500bafab
+----similars----
+Earl Van Dyke & The Motown Brass
+e2462b4e-4f82-43d5-b4d6-3c1ba116472b
+----similars----
+Bobbi Lynn
+4c94f9a9-54fa-42d2-8d7c-9c4f560b59c8
+----similars----
+Frances Nero
+8c843c25-a452-4ccd-8bab-e27ed07bfac1
+----similars----
+The Formations
+f517302c-0fa4-49f6-a431-76db7016a07f
+----similars----
+Dean Courtney
+eded2df4-5b7a-4bcf-b270-3721ddf66b5f
+----similars----
+Tony And Tandy
+
+----similars----
+Epitome Of Sound
+61eac9e8-112b-4974-9b40-27307115bdbc
+----similars----
+Johnny Caswell
+73b920c2-ef49-4646-bde0-84174e892d9d
+----similars----
+Beverley Ann
+bdb9a37f-f12b-4547-b01c-de8749f39f45
+----similars----
+Liz Lands
+f8edb0d0-39b9-46a7-b21d-5fd6988c2627
+----similars----
+Joy Lovejoy
+28fb6a6a-6653-412b-90d3-9512cada5542
+----similars----
+Phillip Mitchell
+67fff66e-9b63-48be-9d04-1c329becc3b5
+----similars----
+Dana Valery
+44013bba-371c-4fdd-b793-ab6c93bb7590
+----similars----
+Shane Martin
+336355c2-05cc-44ae-b45c-3293ba102907
+----similars----
+The Fi-Dels
+d13ba0b9-23f5-4f6c-86d9-501ccf77b7bb
+----similars----
+Freddie Gorman
+7877209b-9d91-4c03-8736-e8a7485bd58d
+----similars----
+Morris Chestnut
+c8f5f0d5-ca6e-4b8a-926f-f8a47c4cc531
+----similars----
+John E. Paul
+9177d112-d543-4ca0-975e-e222ef7ed44c
+----similars----
+Billy Prophet
+614b2499-4c29-4da1-9e01-105bb9ce6132
+----similars----
+The Four Larks
+c09d5612-a073-4062-ad69-3953f943ddb9
+----similars----
+Billy Kennedy
+a9554511-a281-435c-af56-86e7bef30260
+----similars----
+Bobby Breen
+53bb5a12-f5a9-4449-90bb-3d238a289687
+----similars----
+The M.V.P.'s
+3151c300-8857-4b66-8fae-91c702bc6d07
+----similars----
+The Sweet Things
+20b1b4df-11c0-4fa2-8b9f-a231a372b20d
+----similars----
+Bob Brady & The Con Chords
+5482ec4f-1fab-49d5-a493-7219a8621a9e
+----similars----
+The Sharonettes
+790d476a-2f15-4533-8936-d47f8126a0de
+----similars----
+Willie Kendrick
+aa8a27eb-197d-4686-bc29-ce3bb058bed6
+----similars----
+Bobby Wells
+3d0336ec-2d1f-43df-b724-3595c7235226
+----similars----
+Melvin Davis
+789f2ac8-ef17-4907-9997-2a537489e726
+----similars----
+Orthea Barnes
+
+----similars----
+Rick Sheppard
+01d9d663-673b-40f1-bb69-e2519b9e9dd7
+----similars----
+Liz Verdi
+9afd4ba6-d99e-45c3-bce0-e2c1254e6bae
+----similars----
+Joe Matthews
+a644f376-16c8-401c-b886-58912d81469d
+----similars----
+Pat Lewis
+5dc1de75-9f28-47d3-8f2a-79b8b0543e61
+----similars----
+Bob Kuban & The In-Men
+
+----similars----
+Jimmy Conwell
+c9d987a8-0b74-4e81-80df-3f0382da4934
+----similars----
+Herb Ward
+a16c42ea-d5eb-4d9e-bc96-44bc340a25ee
+----similars----
+Bob Relf
+8904f180-ebfd-4e30-b522-feaeb043318f
+----similars----
+Ray Oddis
+53fc7cc5-fbe3-4250-9392-1782ec55f42d
+----similars----
+Tommy Good
+cd96b75d-f1db-4125-8f3b-088249b43c6f
+----similars----
+Vandella
+
+----similars----
+Virgil Henry
+1cc72a8f-2838-48f7-a622-c373a707ed25
+----similars----
+Ginny Satin
+
+----similars----
+Hattie Littles
+f50a07f7-68eb-42c8-ae3c-8c2f150e8ac0
+----similars----
+Lee David
+4208ccae-b1c7-4778-8890-24a9684a186a
+----similars----
+Mamie Galore
+5dcd5a25-1a71-47fb-949f-30214bfd0a13
+----similars----
+Joanne & The Triangles
+55d92869-cbac-41d1-91ec-89b42d95c9a7
+----similars----
+Labrenda Ben & The Beljeans
+7c55f5c4-de64-417f-8373-74059278db11
+----similars----
+Donna Douglas
+52efeb16-dcbc-428a-8428-344035763a1c
+----similars----
+Susan Barrett
+4784af1f-44f5-4a6e-85b2-c74fe0b11461
+----similars----
+Clydie King
+4afcf321-6cb6-416d-81d3-0659312ce968
+----similars----
+T.D. Valentine
+cbfa7cc6-a661-448a-8afc-305e05101902
+----similars----
+Michael & Raymond
+
+----similars----
+Bob Kayli
+59cdf13e-c7db-4522-a3d0-0a916dfe3ab2
+----similars----
+Denise Germaine
+
+----similars----
+Doni Burdick
+4ee9bc6a-2c1c-4600-a84a-5119289bd778
+----similars----
+Billy Harner
+548d877b-a9d3-4dcb-9385-765eab04f86c
+----similars----
+Tony Michaels
+890b1e3d-9f08-4c47-a35b-23012d014839
+----similars----
+J.D. Bryant
+514c4e9d-2377-4989-a0d3-e2c9b8427f62
+----similars----
+Moses & Joshua Dillard
+f5e43f2a-8933-4e95-8192-487d3496f4fd
+----similars----
+Labrenda Ben
+d9b394aa-60ac-422b-81d9-04478ab4e932
+----similars----
+Oma Heard
+461fa204-78a3-4be7-b350-d1ec01003be7
+----similars----
+Christopher Cerf
+3444d4bb-7ebd-4173-b158-e779f85faabf
+----similars----
+The Van Dykes
+d6579404-9e6c-4ce0-81e7-bb90e37cb37a
+----similars----
+San Remo Golden Strings
+33995986-e060-42b0-81e1-8dad0c30c217
+----similars----
+The DC Playboys
+
+----similars----
+Richard Temple
+c47efa3c-8bd9-4914-8f1c-63a79cbf743f
+----similars----
+Patti & The Emblems
+
+----similars----
+Connie Van Dyke
+
+----similars----
+Sue Lynne
+dbedec13-258d-429d-bad1-e28d74694a9c
+----similars----
+Johnny Rogers
+c2589d6c-8bcd-4824-809a-373b10a25367
+----similars----
+The Lewis Sisters
+bae4f000-a12c-40f7-b9c2-ee58c1d22ac3
+----similars----
+The Gospel Classics
+7bba9509-b4f6-4808-b260-d8e3d103f6eb
+----similars----
+The Charmaines
+f8dbfbab-a214-4bae-b28b-fae88d1fb437
+----similars----
+Frankie & Johnny
+04f9ed40-920e-4772-aece-8c376cc8f732
+----similars----
+Bud Harper
+b73a7e7b-4030-40e2-9d40-76823944c38d
+----similars----
+The Virginia Wolves
+326d0963-677a-4827-a7ce-02f91d5dc6e0
+----similars----
+Rick, Robin & Him
+053976dc-4271-4dbe-99d5-508c47580614
+----similars----
+Elliot Baron
+
+----similars----
+Honey Townsend
+46153ee7-a8a9-4350-919e-576a99aa8b1f
+----similars----
+Choker Campbell's Big Band
+128bf7ba-9dd3-432e-aa4d-ee1d431a78be
+----similars----
+Ray Pollard
+f7b436c0-2194-4d92-a560-87f8dec743e9
+----similars----
+Beverly Jones
+5150e2ce-5de7-4a03-9dc1-e93e403c32d2
+----similars----
+The Uptights
+6cb3f1a3-c4d5-4748-8ae9-ad26cacccbdc
+----similars----
+The Dalton Boys
+81ce36d5-8486-42a0-9c9d-4bf6351743ff
+----similars----
+Hal Miller
+36de47cf-1793-4a67-96e3-777d0dc181c5
+----similars----
+Lynne Randell
+0fc25ddb-7ec9-4059-9dfe-7cc505c8afc2
+----similars----
+Mel Williams
+bedd3b87-d125-4924-a27b-89307902b3b5
+----similars----
+Bobby Hanna
+9fb4f9af-e8a4-4dc9-8e35-33ec5b541518
+----similars----
+The Hit Pack
+3516319b-d1e8-414e-813a-826fb800bded
+----similars----
+Gia Malone
+
+----similars----
+Vickie Baines
+036b2ebf-2430-4f48-a56a-109129561f58
+----similars----
+The Sunliners
+a6e1e433-e94e-4ca9-921f-f97e588ce894
+----similars----
+Saundra Mallet & The Vandellas
+
+----similars----
+Sammy Ward
+
+----similars----
+Percy Wiggins
+b0a47c85-f441-4c9a-898c-2a8666a04d64
+USER ARTISTYann Tiersen (official)
+
+
